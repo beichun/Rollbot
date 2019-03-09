@@ -1,2 +1,2 @@
 # Rollbot
-Project repo for Robotics Studio
+Project CAD repo for Robotics Studio
